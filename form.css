@@ -1,0 +1,42 @@
+body{
+    background: url(images/bar.png);
+    background-repeat:repeat;
+    background-size: auto;
+    background-position-x: center;
+}
+.container{
+    padding: 10%;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+.box{
+    background-color: burlywood;
+    margin-right: 20em;
+    display: Auto;
+}
+form{
+    margin-left: 10em;
+    padding: 4%;
+}
+button{
+    margin-left: 2.5em;
+}
+.container-fluid{
+    background-color: burlywood;
+    display: flex;
+    padding: 5em;
+}
+#div1{
+    padding: 2em;
+    margin-left: 2em;
+}
+#div2{
+    padding-left: 13em;
+    margin-top: 7em;
+}
+.homy{
+    margin-top: 50em;
+}
+#txt1{
+    font-family: monotype corsiva;
+}
